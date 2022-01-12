@@ -2,7 +2,7 @@
 #include <iostream>
 #include<stdio.h>
 #include<windows.h>
-
+w
 int main(int argc, char** argv)
 {
     setlocale(LC_ALL, "");//нужно чтобы отображалась кириллица
